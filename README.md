@@ -57,7 +57,10 @@ morgan
 **<span style="text-decoration:underline;">Known Issues</span>**
 
 
-Deploying with MongoDB Atlas- I am having problems getting the page to deploy, ive checked all the syntax and gollowed the diredtions but it doesnt seem to be working. I am down to the deadline to turn this stuff in so I am not sure if I will have time to review it should I get an incomplete. Please give me a letter grade if it isnt working please.
+Was able to get the   APP deployed and fix the bugs that were causing it to not work yesterday! 
+I had to look up the aggrigate functions and insert those into my syntax.
+The APP does not seem to be working fully on Heroku so I am also going to insert a video to show the app working after being deployed.
+
 
 **<span style="text-decoration:underline;">GitHub </span>**
 
